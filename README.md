@@ -4,3 +4,5 @@ This is a command line interface application that executes certain commands just
 
 ## Tech Stack
 This project is built in HTML and Tailwind.
+
+## Screenshots
